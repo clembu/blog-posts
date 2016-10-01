@@ -48,3 +48,9 @@ Only two of them work fine out of the box though. So you gotta give them some fl
 ### Tool bar config
 
 This one, ideally I'd do it myself when I have time. Until then I installed [@jeselxe's toolbar](https://atom.io/packages/tool-bar-atom) for common actions.
+
+## Git stuff
+
+## Pretty code is pretty
+
+## Some more useful stuff
