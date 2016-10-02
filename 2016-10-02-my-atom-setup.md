@@ -7,7 +7,7 @@ tags:
 ---
 # Atom is awesome.
 
-Right now I'm typing, and the screen is shaking at each press on a key, with particles flying everywhere.
+Right now I'm typing, and [the screen is shaking](https://atom.io/packages/activate-power-mode) at each press on a key, with particles flying everywhere.
 
 It's fun 5 minutes, but I'm getting tired of it, so I'll disable it with `ctrl+alt+o`, and uninstall the package.
 
