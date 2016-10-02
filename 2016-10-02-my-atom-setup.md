@@ -16,7 +16,7 @@ There. It's gone.
 ---
 # Installed packages
 
-## The Bare necessities
+## The Bare Necessities
 
 ### building blocks
 These are packages kind of every atom user I know has installed. It's simply unpleasant without them.
