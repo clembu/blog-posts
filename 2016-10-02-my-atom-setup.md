@@ -14,6 +14,7 @@ It's fun 5 minutes, but I'm getting tired of it, so I'll disable it with `ctrl+a
 There. It's gone.
 
 ---
+
 # Installed packages
 
 ## The Bare Necessities
