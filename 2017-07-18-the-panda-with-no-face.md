@@ -1,5 +1,5 @@
 ---
-title: The Panda with No Face
+title: The Panda with no Face
 tags:
   - meta
   - content
