@@ -41,8 +41,8 @@ Hence **the panda with no face**.
 
 ### Some homebrew stuff
 
-I've started role-playing with friends recently, as a game master,
-directing my own campaign set in a world I built over nearly ten years.
+I've started **role-playing with friends** recently, as a game master,
+directing **my own campaign set in a world I built** over nearly ten years.
 
 I would like to post party character details and session summaries, but
 I never prepared for this kind of stuff. It's my first game and I underestimated
@@ -55,13 +55,14 @@ from that game, at some point. But not now.
 
 ### Call of Cthulhu — 1890
 
-In the near future, though, I will be playing in a Call of Cthulhu game. Not as GM though.
+In the near future, though, I will be playing in a **Call of Cthulhu** game. Not as GM though.
 
-My character is Edward DuMoulin, you can find his bio
+My character is **Edward DuMoulin**, you can find his bio
 [on the site]({{ site.baseurl }}{% link games/cthulhu/edward.md %}).
 
-I have added a summary page of the game. Kind of like a hub. You can find links to 
-character bios and session summaries. It will be updated each time there's something new.
+I have added a **[summary page of the game]({{ site.baseurl }}{% link games/cthulhu.md %})**.
+Kind of like a hub. You can find links to character bios and session summaries.
+It will be updated each time there's something new.
 
 For each game I will be playing, there's gonna be a similar hub.
 
